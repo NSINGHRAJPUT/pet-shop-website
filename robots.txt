@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pet-shop-website.vercel.app/sitemap.xml
